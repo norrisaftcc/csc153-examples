@@ -23,7 +23,9 @@ Here we mean more #4, with a little bit of #2 and #3.
 
 Idioms differ by language -- this is true of programming languages as well.
 Thus, geting a handle on common programming idioms for your language of choice is essential.
+
 Examples:
+
 C'est la goutte d'eau qui fait déborder le vase 	the straw that broke the camel's back
 ("it's the drop of water that made the vase overflow")
 
