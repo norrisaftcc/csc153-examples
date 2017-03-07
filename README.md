@@ -7,14 +7,19 @@ See: http://i3.kym-cdn.com/photos/images/original/000/530/109/67d
 
 # Programming Idioms
 What is an idiom? (Dictionary.com)
+
 1.
 an expression whose meaning is not predictable from the usual meanings of its constituent elements, as kick the bucket or hang one's head, or from the general grammatical rules of a language, as the table round for the round table, and that is not a constituent of a larger expression of like characteristics.
+
 2.
 a language, dialect, or style of speaking peculiar to a people.
+
 3.
 a construction or expression of one language whose parts correspond to elements in another language but whose total structure or meaning is not matched in the same way in the second language.
+
 4.
 the peculiar character or genius of a language.
+
 5.
 a distinct style or character, in music, art, etc.:
 the idiom of Bach.
@@ -33,6 +38,7 @@ Pédaler dans la semoule 	to go round in circles / to get nowhere fast
 ("to pedal in the semolina")
 
 # C# Idioms
+
 (To quote a user on StackExchange: "I wouldn't put too much currency in the Wikipedia definition." This is always good advice no matter what it refers to.)
 See:
 http://www.programming-idioms.org/ (Their motto: "Please don't reinvent the wheel")
