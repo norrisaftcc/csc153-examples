@@ -24,10 +24,19 @@ Here we mean more #4, with a little bit of #2 and #3.
 Idioms differ by language -- this is true of programming languages as well.
 Thus, geting a handle on common programming idioms for your language of choice is essential.
 
-Examples:
+# French Idioms (Non-Programming):
 
 C'est la goutte d'eau qui fait déborder le vase 	the straw that broke the camel's back
 ("it's the drop of water that made the vase overflow")
 
 Pédaler dans la semoule 	to go round in circles / to get nowhere fast
 ("to pedal in the semolina")
+
+# C# Idioms
+(To quote a user on StackExchange: "I wouldn't put too much currency in the Wikipedia definition." This is always good advice no matter what it refers to.)
+See:
+http://www.programming-idioms.org/ (Their motto: "Please don't reinvent the wheel")
+https://stackoverflow.com/questions/84102/what-is-idiomatic-code
+
+Advanced:
+http://mike-ward.net/2009/01/02/favorite-c-idioms/ (Mike Ward's blog is great, but a bit advanced for now.)
