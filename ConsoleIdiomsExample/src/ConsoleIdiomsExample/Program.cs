@@ -42,7 +42,13 @@ namespace ConsoleIdiomsExample
             // this makes it easier to tell them apart.
             MenuIdiom();
 
+            // other idioms go here
+            // ForeverIdiom();
+            // InputIdiom();
+            // RepeatUntilIdiom();
+            // IdiomToBeNamedLaterIdiom();
 
+            // when done, wait for user input
             WaitIdiom();
         }
 
@@ -86,6 +92,16 @@ namespace ConsoleIdiomsExample
             // line could just say
             // Console.ReadLine();
             string input = Console.ReadLine();
+        }
+
+        private static void ForeverIdiom()
+        {
+            // from http://www.programming-idioms.org/idiom/50/make-an-infinite-loop
+            while (true)
+            {
+                // Do something
+                Console.WriteLine("This is the song that never ends.");
+            }
         }
     }
 }
